@@ -7,13 +7,13 @@ author_profile: true
 
 ![](/images/atlantic.JPG) &nbsp; &nbsp; &nbsp; ![](/images/old main winter.JPG)
 ![](/images/old main sprng.JPG) &nbsp; &nbsp; &nbsp;  ![](/images/old main later spring.JPG)
-![](/images/emodao.JPG){:height="33%" width="33%"} &nbsp; &nbsp; &nbsp; ![](/images/tangrenjie.JPG){:height="33%" width="33%"}
-![](/images/netherland bikes.JPG){:height="33%" width="33%"} &nbsp; &nbsp; &nbsp;  ![](/images/netherland2.JPG){:height="33%" width="33%"}
-![](/images/Movie/jsc.JPG){:height="33%" width="33%"} &nbsp; &nbsp; &nbsp; ![](/images/Movie/mfzybesj.JPG){:height="33%" width="33%"}
-![](/images/Movie/myfj.JPG){:height="33%" width="33%"} &nbsp; &nbsp; &nbsp; ![](/images/Movie/rs.JPG){:height="33%" width="33%"}
-![](/images/Movie/skggp.JPG){:height="33%" width="33%"} &nbsp; &nbsp; &nbsp;  ![](/images/Movie/sxastd.JPG){:height="33%" width="33%"}
-![](/images/Movie/wrzx.JPG){:height="33%" width="33%"} &nbsp; &nbsp; &nbsp; ![](/images/Movie/xc.JPG){:height="33%" width="33%"}
-![](/images/Movie/xfr.JPG){:height="33%" width="33%"} &nbsp; &nbsp; &nbsp; ![](/images/Movie/xtjz.JPG){:height="33%" width="33%"}
+![](/images/emodao.JPG) &nbsp; &nbsp; &nbsp; ![](/images/tangrenjie.JPG)
+![](/images/netherland bikes.JPG) &nbsp; &nbsp; &nbsp;  ![](/images/netherland2.JPG)
+![](/images/netherland.JPG) &nbsp; &nbsp; &nbsp; ![](/images/Movie/mfzybesj.JPG)
+![](/images/psu xidian.JPG) &nbsp; &nbsp; &nbsp; ![](/images/star.JPG)
+![](/images/monk.JPG) &nbsp; &nbsp; &nbsp;  ![](/images/chengdu3.JPG)
+![](/images/chengdu view2.JPG) &nbsp; &nbsp; &nbsp; ![](/images/my hand in water.JPG)
+![](/images/psu squirrel.JPG) &nbsp; &nbsp; &nbsp; ![](/images/psb hua.JPG)
 
 
 {% if author.googlescholar %}
