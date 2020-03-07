@@ -6,19 +6,35 @@ author_profile: true
 ---
 
 ![](/images/atlantic.JPG) 
+
 ![](/images/old main winter.JPG)
+
 ![](/images/old main sprng.JPG)
+
 ![](/images/old main later spring.JPG)
+
 ![](/images/emodao.JPG)
+
 ![](/images/tangrenjie.JPG)
+
 ![](/images/netherland bikes.JPG)
+
 ![](/images/netherland2.JPG)
+
 ![](/images/netherland.JPG)
+
 ![](/images/psu xidian.JPG)
+
 ![](/images/star.JPG)
-![](/images/monk.JPG) {:height="33%" width="33%"} &nbsp; &nbsp; &nbsp; ![](/images/chengdu3.JPG) {:height="33%" width="33%"}
+
+![](/images/monk.JPG) {:height="33%" width="33%"}
+
+![](/images/chengdu3.JPG) {:height="33%" width="33%"}
+
 ![](/images/my hand in water.JPG)
+
 ![](/images/psu squirrel.JPG)
+
 ![](/images/psb hua.JPG)
 
 
