@@ -5,8 +5,8 @@ permalink: /MyGallery/
 author_profile: true
 ---
 
-![](/images/atlantic.JPG){:height="33%" width="33%"} &nbsp; &nbsp; &nbsp; ![](/images/old main winter.JPG){:height="33%" width="33%"}
-![](/images/old main sprng.JPG){:height="33%" width="33%"} &nbsp; &nbsp; &nbsp;  ![](/images/old main later spring.JPG){:height="33%" width="33%"}
+![](/images/atlantic.JPG) &nbsp; &nbsp; &nbsp; ![](/images/old main winter.JPG)
+![](/images/old main sprng.JPG) &nbsp; &nbsp; &nbsp;  ![](/images/old main later spring.JPG)
 ![](/images/emodao.JPG){:height="33%" width="33%"} &nbsp; &nbsp; &nbsp; ![](/images/tangrenjie.JPG){:height="33%" width="33%"}
 ![](/images/netherland bikes.JPG){:height="33%" width="33%"} &nbsp; &nbsp; &nbsp;  ![](/images/netherland2.JPG){:height="33%" width="33%"}
 ![](/images/Movie/jsc.JPG){:height="33%" width="33%"} &nbsp; &nbsp; &nbsp; ![](/images/Movie/mfzybesj.JPG){:height="33%" width="33%"}
