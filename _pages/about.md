@@ -8,22 +8,31 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website! I am Ruiling Shen, and you can also call me Neil. I am from Chongqing, China, also known as the *Mountain City*.  
-<br />![Chongqing](images/ChongQing.JPG)
-*Chongqing City*
+**Candidate at Simon Business School**
+Welcome to my personal website! I am Pin, currently a candidate of the Master of Science in Business Analytics program at Simon Business School, University of Rochester, and right now in pursuit of a career as a data-driven decision maker. I can work full-time in May 2020. You can check my [Data Analytical Project](https://pin-li.github.io/DataAnalyticalProject/) and [Business Case Study](https://pin-li.github.io/BusinessCaseStudy/), where I show all my data-related project work and case studies.
 
-I am currently a candidate of Master of Science in Business Analytics program at **Simon Business School, University of Rochester**, and right now in pursuit of a career as a data-driven decision maker. You can check my [Data Analytical Project](https://neilshen9747.github.io/DataAnalyticalProject/) and [Business Case Study](https://neilshen9747.github.io/BusinessCaseStudy/), where I show all my data-related project work and case studies.
+<br />![oldmain](images/me and old main.JPG)
+*Old Main, Penn State University*
 
-Besides, I have been playing volleyball for almost four years, and I was the Opposite Spiker of my university man's volleyball team.
-<br />![Volleyball](images/Volleyball.JPG)
-*2018 Chengdu University Volleyball Tournament*
+**Lean Project Manager**
+Prior to Simon, I graduated from Penn State Univerisity with a degree in Supply Chain and Information System. That was why I then worked for one year for Banggood Inc. in eCommerce industry as a lean project manager in charge of international warehousing and logistics, including two warehouses located in the United States. That was when I combined my business sense, process mapping and data analysis skill to drive decisions in lean project management. 
 
-I am also a music and movie lover, and here is my [music recommendation](https://neilshen9747.github.io/MusicCollection/) and my [movie recommendation](https://neilshen9747.github.io/MovieCollection/).
+<br />![doginNJ](images/doginNJ.JPG)
+*Me and their honor employee - Turbo the dog, New Jersey Warehouse*
 
-Moreover, I like cooking for friends. Chongqing and Sichuan food are my specialities!
-<br />![Food](images/Food.JPG)
-*Spicy Chicken and Tofu*
+**Business Analyst**
+During the time dealing with data in each project, I found myself obsessed with the story hidden in the data. I then transferred to eCommerce Sales Department as a business analyst in the same company. Banggood's structured and complete database for online data and hive environment enabled me to retrieve data using SQL to do analysis for various purposes. I could say I was very confident in SQL and Tableau, but I was eager to learn more in data analytics, especially coding in R and Python, so I went back to Simon Business School to have myself systematically educated with cutting-edge technology in business analytics.
 
-Also I am an enthusiastic traveler. I have been to 16 countries 🇨🇳🇯🇵🇨🇦🇺🇸🇬🇧🇨🇿🇭🇺🇦🇹🇮🇹🇫🇷🇻🇦🇨🇭🇫🇮🇩🇰🇻🇳🇵🇪 and I plan to keep increasing the numbers. I believe that travel is a way to embrace more cultures and knowledge and become more inclusive, open, and free.
+<br />![ur](images/ur.JPG)
+*Rush Rhee, University of Rochester*
+
+**Storyteller**
+Life is beautiful. Life is complicated. Life is beautiful because of its complexity.
+I regard myself as a storyteller for two reasons:
+Firstly, I am a professional data analyst, and will tell you the story hidden by the data where you cannot see from the surface.
+Secondly, I am an amateur photographer, and want to tell you the story that I happened to see with my eyes.
+
+<br />![ur](images/love and peace.JPG)
+*Love, and Peace, New York City*
 
 Hope you can enjoy my website, and please feel free to contact me if you wanna chat!
