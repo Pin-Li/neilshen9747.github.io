@@ -25,7 +25,7 @@ author_profile: true
 
 ![](/images/star.JPG)
 
-![](/images/monk.JPG){:height="50%" width="50%"} &nbsp; ![](/images/chengdu3.JPG){:height="50%" width="50%"}
+![](/images/monk.JPG){:height="49%" width="49%"} &nbsp; ![](/images/chengdu3.JPG){:height="49%" width="49%"}
 
 ![](/images/my hand in water.JPG)
 
