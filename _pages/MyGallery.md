@@ -1,14 +1,14 @@
 ---
 layout: archive
-title: "Movie Collection"
-permalink: /MovieCollection/
+title: "My Gallery"
+permalink: /MyGallery/
 author_profile: true
 ---
 
-![](/images/Movie/adedsh.JPG){:height="33%" width="33%"} &nbsp; &nbsp; &nbsp; ![](/images/Movie/ayzc.JPG){:height="33%" width="33%"}
-![](/images/Movie/cgzx.JPG){:height="33%" width="33%"} &nbsp; &nbsp; &nbsp;  ![](/images/Movie/dbs.JPG){:height="33%" width="33%"}
-![](/images/Movie/cmbyn.JPG){:height="33%" width="33%"} &nbsp; &nbsp; &nbsp; ![](/images/Movie/djtc.JPG){:height="33%" width="33%"}
-![](/images/Movie/hbdmqst.JPG){:height="33%" width="33%"} &nbsp; &nbsp; &nbsp;  ![](/images/Movie/hygs.JPG){:height="33%" width="33%"}
+![](/images/atlantic.JPG){:height="33%" width="33%"} &nbsp; &nbsp; &nbsp; ![](/images/old main winter.JPG){:height="33%" width="33%"}
+![](/images/old main sprng.JPG){:height="33%" width="33%"} &nbsp; &nbsp; &nbsp;  ![](/images/old main later spring.JPG){:height="33%" width="33%"}
+![](/images/emodao.JPG){:height="33%" width="33%"} &nbsp; &nbsp; &nbsp; ![](/images/tangrenjie.JPG){:height="33%" width="33%"}
+![](/images/netherland bikes.JPG){:height="33%" width="33%"} &nbsp; &nbsp; &nbsp;  ![](/images/netherland2.JPG){:height="33%" width="33%"}
 ![](/images/Movie/jsc.JPG){:height="33%" width="33%"} &nbsp; &nbsp; &nbsp; ![](/images/Movie/mfzybesj.JPG){:height="33%" width="33%"}
 ![](/images/Movie/myfj.JPG){:height="33%" width="33%"} &nbsp; &nbsp; &nbsp; ![](/images/Movie/rs.JPG){:height="33%" width="33%"}
 ![](/images/Movie/skggp.JPG){:height="33%" width="33%"} &nbsp; &nbsp; &nbsp;  ![](/images/Movie/sxastd.JPG){:height="33%" width="33%"}
