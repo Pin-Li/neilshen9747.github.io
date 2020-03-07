@@ -6,11 +6,8 @@ main:
   - title: "Business Case Study"
     url: /BusinessCaseStudy/
 
-  - title: "Music Collection"
-    url: /MusicCollection/
-
-  - title: "Movie Collection"
-    url: /MovieCollection/
+  - title: "My Gallery"
+    url: /MyGallery/
 
   - title: "CV"
     url: /cv/
