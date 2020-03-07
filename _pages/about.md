@@ -26,8 +26,8 @@ Prior to Simon, I graduated from Penn State Univerisity with a degree in Supply 
 
 During the time dealing with data in each project, I found myself obsessed with the story hidden in the data. I then transferred to eCommerce Sales Department as a business analyst in the same company. Banggood's structured and complete database for online data and hive environment enabled me to retrieve data using SQL to do analysis for various purposes. I could say I was very confident in SQL and Tableau, but I was eager to learn more in data analytics, especially coding in R and Python, so I went back to Simon Business School to have myself systematically educated with cutting-edge technology in business analytics.
 
-<br />![ur](images/ur.JPG)
-*Rush Rhee, University of Rochester*
+<br />![ur](images/ur.jpg)
+*Rush Rhees, University of Rochester*
 
 **Storyteller**
 
