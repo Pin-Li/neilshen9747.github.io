@@ -7,11 +7,9 @@ author_profile: true
 
 ![](/images/atlantic.JPG) 
 
-![](/images/old main winter.JPG)
+![](/images/Ontarioboys.JPG) 
 
-![](/images/old main sprng.JPG)
-
-![](/images/old main later spring.JPG)
+![](/images/ontarioboys2.JPG) 
 
 ![](/images/emodao.JPG)
 
@@ -27,11 +25,13 @@ author_profile: true
 
 ![](/images/star.JPG)
 
-![](/images/monk.JPG){:height="45%" width="45%"} &nbsp; &nbsp; &nbsp; ![](/images/chengdu3.JPG){:height="45%" width="45%"}
+![](/images/monk.JPG){:height="48%" width="48%"} &nbsp; &nbsp; &nbsp; ![](/images/chengdu3.JPG){:height="48%" width="48%"}
 
 ![](/images/my hand in water.JPG)
 
 ![](/images/psu squirrel.JPG)
+
+![](/images/psu road.JPG)
 
 ![](/images/psb hua.JPG)
 
