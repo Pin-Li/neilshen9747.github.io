@@ -26,7 +26,7 @@ author_profile: true
 ---
 
 [Car Demand Casual Analysis Sales Data using R](Car Demand.html)
-[![](/images/carpic.jpg =680x430)](Car Demand.html)
+[![](/images/carpic.jpg){:height="680px" width="340px"}](Car Demand.html)
 
 ---
 
