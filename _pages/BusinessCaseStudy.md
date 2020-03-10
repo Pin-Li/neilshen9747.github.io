@@ -19,7 +19,7 @@ This case study is decision-oriented about recommending flavors to launch next. 
 
 ---
 
-[Wine Retailer Case - Casual Effect Analysis using R & Tableau](/pdf/WineRetailerCase.pdf)
+[Wine Retailer Case - Casual Effect Analysis using R & Tableau{ font-size: 36pt; }](/pdf/WineRetailerCase.pdf)
 [![](/images/Wine.png)](/pdf/WineRetailerCase.pdf)
 
 This case study is insight-oriented concerning the effectiveness of email advertising and the potential target markets. My team utilized R to conduct linear regression to see the average causal effect difference, and casual forest to determine whether we should target one certain customer based on the potential benefits that generate compared to promotion costs.
