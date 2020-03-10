@@ -1,3 +1,11 @@
+---
+layout: archive
+title: "Baltimore Crime Map using R"
+permalink: /Baltimore Crime Map using R/
+author_profile: true
+---
+
+
 ## Baltimore Crime Map using R
 
 **Project Description:** Now we have a Baltimore crime timestamp dataset from the Baltimore Police Department.
@@ -68,4 +76,10 @@ for(i in 1:4){
          y = df.raw[df.raw$TimePattern == i,]$latitude,
          pch = 19, cex = 0.1, col=rgb(1,0,0,0.02))
  ```
- 
+ {% include base_path %}
+
+
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
+
