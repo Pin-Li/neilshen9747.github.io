@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Customer Value Segmentation using R"
-permalink: /Customer Value Segmentation using R/
+permalink: /CustomerValueSegmentation/
 author_profile: true
 ---
 
