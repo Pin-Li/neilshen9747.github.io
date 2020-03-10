@@ -6,38 +6,38 @@ author_profile: true
 ---
 
 [Credit Risk Prediction - LightBGM using Python](/pdf/Credit Risk Prediction with LightBGM.pdf)
-[![](/images/Credit Risk Prediction with LightBGM_1.png){:height="1100px" width="550px"}](/pdf/Credit Risk Prediction with LightBGM.pdf)
+[![](/images/Credit Risk Prediction with LightBGM_1.png](/pdf/Credit Risk Prediction with LightBGM.pdf)
 
 ---
 
 [Food Trend Detection - Natural Language Processing using Python NLTK Package](/pdf/SM HW 4 - Pin Li new.pdf)
-[![](/images/cauliflower.png){:height="1100px" width="550px"}](/pdf/SM HW 4 - Pin Li new.pdf)
+[![](/images/cauliflower.jpeg)](/pdf/SM HW 4 - Pin Li new.pdf)
 
 ---
 
 [Twitter Sentiment Analysis - Natural Language Processing using Python NLTK Package](/pdf/Tweet Sentimental Analysis.pdf)
-[![](/images/Twitterpic.png){:height="1100px" width="550px"}](/pdf/Tweet Sentimental Analysis.pdf)
+[![](/images/Twitter.jpeg)](/pdf/Tweet Sentimental Analysis.pdf)
 
 ---
 
 [Kiwi Bubble VS Mango Casual Analysis - Choice Data Multilogit Choice Model using R](/Project-2---final-version-copy.html)
-[![](/images/bubble.png){:height="1100px" width="550px"}](/Project-2---final-version-copy.html)
+[![](/images/bubble.jpeg)](/Project-2---final-version-copy.html)
 
 ---
 
 [Car Demand Casual Analysis Sales Data using R](/Car Demand.html)
-[![](/images/carpic.jpg){:height="1100px" width="550px"}](/Car Demand.html)
+[![](/images/carpic.jpeg)](/Car Demand.html)
 
 ---
 
 [Customer Value Segmentation using R](/Customer Value Segmentation using R.md)
-[![](/images/custseg.png){:height="1100px" width="550px"}](/Customer Value Segmentation using R.md)
+[![](/images/customer.jpeg)](/Customer Value Segmentation using R.md)
 
 ---
 
 [Baltimore Crime Map using R](Baltimore Crime Map using R.md)
 
-[![](/images/baltimoreC.png){:height="1100px" width="550px"}](/Baltimore Crime Map using R.md)
+[![](/images/crime.jpeg)](/Baltimore Crime Map using R.md)
 
 
 ---
