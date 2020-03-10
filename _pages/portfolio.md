@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 [Credit Risk Prediction - LightBGM using Python](/pdf/Credit Risk Prediction with LightBGM.pdf)
-[![](/images/Credit Risk Prediction with LightBGM_1.png](/pdf/Credit Risk Prediction with LightBGM.pdf)
+![](/images/Credit Risk Prediction with LightBGM_1.png
 
 ---
 
