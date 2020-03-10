@@ -35,15 +35,15 @@ author_profile: true
 
 ---
 
-[Customer Value Segmentation using R](/Customer Value Segmentation using R.md)
+[Customer Value Segmentation using R](/CustomerValueSegmentation.md/)
 
-[![](/images/customer.jpeg)](/Customer Value Segmentation using R.md)
+[![](/images/customer.jpeg)](/CustomerValueSegmentation.md/)
 
 ---
 
-[Baltimore Crime Map using R](/Baltimore Crime Map using R.md)
+[Baltimore Crime Map using R](/Baltimore Crime Map using R.md/)
 
-[![](/images/crime.jpeg)](/Baltimore Crime Map using R.md)
+[![](/images/crime.jpeg)](/Baltimore Crime Map using R.md/)
 
 
 ---
