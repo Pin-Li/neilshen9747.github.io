@@ -94,10 +94,5 @@ barplot(v,xlab = 'deciles in the RFM index', ylab = 'average expenditure', ylim=
 ### Conclusion
 This is just an exercise for for-loop in R but I learnt a lot from this. Not only did I learn about the logic within for-loop, but also the importance of business sense. One would be lost in the real working scenario when he/she has to figure out "which customer is more valuable to my company". From this point, a machine would be less helpful and that is where we human could not be replaced.
 
-{% include base_path %}
 
-
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
 
