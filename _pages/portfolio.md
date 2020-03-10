@@ -20,24 +20,24 @@ author_profile: true
 
 ---
 
-[Kiwi Bubble VS Mango Casual Analysis - Choice Data Multilogit Choice Model using R](Project-2---final-version-copy.html)
-[![](/images/bubble.png){:height="680px" width="340px"}](Project-2---final-version-copy.html)
+[Kiwi Bubble VS Mango Casual Analysis - Choice Data Multilogit Choice Model using R](/Project-2---final-version-copy.html)
+[![](/images/bubble.png){:height="680px" width="340px"}](/Project-2---final-version-copy.html)
 
 ---
 
-[Car Demand Casual Analysis Sales Data using R](Car Demand.html)
-[![](/images/carpic.jpg){:height="680px" width="340px"}](Car Demand.html)
+[Car Demand Casual Analysis Sales Data using R](/Car Demand.html)
+[![](/images/carpic.jpg){:height="680px" width="340px"}](/Car Demand.html)
 
 ---
 
-[Customer Value Segmentation using R](Customer Value Segmentation using R.md)
-[![](/images/custseg.png){:height="680px" width="340px"}](Customer Value Segmentation using R.md)
+[Customer Value Segmentation using R](/Customer Value Segmentation using R.md)
+[![](/images/custseg.png){:height="680px" width="340px"}](/Customer Value Segmentation using R.md)
 
 ---
 
 [Baltimore Crime Map using R](Baltimore Crime Map using R.md)
 
-[![](/images/baltimoreC.png){:height="680px" width="340px"}](Baltimore Crime Map using R.md)
+[![](/images/baltimoreC.png){:height="680px" width="340px"}](/Baltimore Crime Map using R.md)
 
 
 ---
