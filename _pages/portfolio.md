@@ -23,13 +23,13 @@ author_profile: true
 
 ---
 
-[Kiwi Bubble VS Mango Casual Analysis - Choice Data Multilogit Choice Model using R](/Project-2---final-version-copy.html)
+[Kiwi Bubble VS Mango Causal Analysis - Choice Data Multilogit Choice Model using R](/Project-2---final-version-copy.html)
 
 [![](/images/bubble.jpeg)](/Project-2---final-version-copy.html)
 
 ---
 
-[Car Demand Casual Analysis Sales Data using R](/Car Demand.html)
+[Car Demand Causal Analysis Sales Data using R](/Car Demand.html)
 
 [![](/images/carpic.jpeg)](/Car Demand.html)
 
