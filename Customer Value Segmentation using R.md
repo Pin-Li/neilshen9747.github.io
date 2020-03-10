@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Customer Value Segmentation using R"
+permalink: /Customer Value Segmentation using R/
+author_profile: true
+---
+
 ## Customer Value Segmentation using R
 
 **Project Description:** We need to distinguish potential high-value consumers from low-value consumers according to their recency, frequency and monetary value (RFM). Recency refers to the number of months since the last month with purchase. Frequency is the sum of trips that a given individual made in the previous quarter. Monetary value is the average monthly expenditure for a consumer in the previous months. Then we apply different weights to these three factors and calculate an RFM index. At last we segment customers with 10 even-sized groups from low to high index values. The very last two groups with high index values are customers we want to target.
@@ -87,4 +94,10 @@ barplot(v,xlab = 'deciles in the RFM index', ylab = 'average expenditure', ylim=
 ### Conclusion
 This is just an exercise for for-loop in R but I learnt a lot from this. Not only did I learn about the logic within for-loop, but also the importance of business sense. One would be lost in the real working scenario when he/she has to figure out "which customer is more valuable to my company". From this point, a machine would be less helpful and that is where we human could not be replaced.
 
+{% include base_path %}
+
+
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
 
