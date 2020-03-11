@@ -11,7 +11,7 @@ author_profile: true
 
 ### 1. Recency
 
-Since recency is based on last month's purchase history, I have to use a for-loop even if it runs quite slowly. 
+Recency is based on last month's purchase history, using a for-loop:
 
 ```Rscript
 df$recency <- NA
