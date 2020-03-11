@@ -35,15 +35,15 @@ author_profile: true
 
 ---
 
-[Customer Value Segmentation using R](/CustomerValueSegmentation.md/)
+[Customer Value Segmentation using R](https://github.com/Pin-Li/Pin-Li.github.io/blob/master/CustomerValueSegmentation.md/)
 
-[![](/images/customer.jpeg)](/CustomerValueSegmentation.md/)
+[![](/images/customer.jpeg)](https://github.com/Pin-Li/Pin-Li.github.io/blob/master/CustomerValueSegmentation.md/)
 
 ---
 
-[Baltimore Crime Map using R](/Baltimore Crime Map using R.md/)
+[Baltimore Crime Map using R](https://github.com/Pin-Li/Pin-Li.github.io/blob/master/Baltimore Crime Map using R.md/)
 
-[![](/images/crime.jpeg)](/Baltimore Crime Map using R.md/)
+[![](/images/crime.jpeg)](https://github.com/Pin-Li/Pin-Li.github.io/blob/master/Baltimore Crime Map using R.md/)
 
 
 ---
