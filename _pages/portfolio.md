@@ -14,7 +14,7 @@ author_profile: true
 
 [Food Trend Detection - Natural Language Processing using Python NLTK Package](/pdf/SM HW 4 - Pin Li new.pdf)
 
-[![](/images/cauliflower.jpeg)](/pdf/SM HW 4 - Pin Li new.pdf)
+[![](/images/cauliflower.png)](/pdf/SM HW 4 - Pin Li new.pdf)
 
 ---
 
@@ -26,25 +26,25 @@ author_profile: true
 
 [Kiwi Bubble VS Mango Causal Analysis - Choice Data Multilogit Choice Model using R (Team Project)](/Project-2---final-version-copy.html)
 
-[![](/images/bubble.jpeg)](/Project-2---final-version-copy.html)
+[![](/images/2-Dsimulation.png)](/Project-2---final-version-copy.html)
 
 ---
 
 [Car Demand Causal Analysis Sales Data using R (Team Project)](/Car Demand.html)
 
-[![](/images/carpic.jpeg)](/Car Demand.html)
+[![](/images/corrplot.png)](/Car Demand.html)
 
 ---
 
 [Customer Value Segmentation using R](https://github.com/Pin-Li/Pin-Li.github.io/blob/master/CustomerValueSegmentation.md/)
 
-[![](/images/customer.jpeg)](https://github.com/Pin-Li/Pin-Li.github.io/blob/master/CustomerValueSegmentation.md/)
+[![](/images/segmentbarplot.png)](https://github.com/Pin-Li/Pin-Li.github.io/blob/master/CustomerValueSegmentation.md/)
 
 ---
 
 [Baltimore Crime Map using R](https://github.com/Pin-Li/Pin-Li.github.io/blob/master/Baltimore Crime Map using R.md/)
 
-[![](/images/crime.jpeg)](https://github.com/Pin-Li/Pin-Li.github.io/blob/master/Baltimore Crime Map using R.md/)
+[![](/images/crimeplot.png)](https://github.com/Pin-Li/Pin-Li.github.io/blob/master/Baltimore Crime Map using R.md/)
 
 
 ---
