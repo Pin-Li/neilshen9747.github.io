@@ -5,6 +5,12 @@ permalink: /BusinessCaseStudy/
 author_profile: true
 ---
 
+[Practicum Project: National Chain Retailer Attraction Plan using Python & Tableau](/pdf/ROCProjectPitch.pdf)
+[![](/images/ROCSlides.png)](/pdf/ROCProjectPitch.pdf)
+
+The project objective is to attract a national retailer and identify an optimal location for it in Downtown Rochester with consideration of economic status, demographic attributes and business opportunities. Methodologies included quantitative and qualitative research: data augmentation, peer city comparable analysis, descriptive analysis, predictive modeling, and final pitch deck. (More info: [Executive Summary](/pdf/ExecutiveSummary.pdf) / [Codebook](/Team 3 City of Rochester Codebook.htm))
+
+
 [Toy Horse Conjoint Experiment - Conjoint Analysis using R & Tableau](/pdf/ToyHorseCase.pdf)
 [![](/images/toy horse.png)](/pdf/ToyHorseCase.pdf)
 
